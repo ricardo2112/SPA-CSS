@@ -310,6 +310,12 @@ input::placeholder {
     background-color: #384001;
 }
 
+.reserva:hover {
+    background-color:  #384001;
+    cursor: pointer; /* Change cursor to pointer on hover */
+    /* Add any other styles you want for the hover effect */
+}
+
 .contenedorBeneficios li{
     font-family: 'Inter', sans-serif; /* Utiliza la fuente Inter o la que prefieras */
     font-weight: 400; /* Regular */
