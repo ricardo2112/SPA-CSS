@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "nuevaFuente";
-    src: url(/font/Romanesco-Regular.ttf);
+    src: url(font/Romanesco-Regular.ttf);
 }
 
 
@@ -79,7 +79,7 @@ margin-right: 2.5rem;
 
 
 #spa-todos{
-    background-image: url("/images/main.png");
+    background-image: url("images/main.png");
     background-size: cover;
     background-position: center;
     height: 780px;
